@@ -1,5 +1,4 @@
 const apiUrl = "https://api.openai.com/v1/completions";
-const apiKey = "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";
 
 // Create a function to send a request to the GPT-3.5 API.
 async function generateText(prompt) {
